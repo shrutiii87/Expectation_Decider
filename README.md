@@ -66,6 +66,13 @@ Your task is to analyze student performance data and apply probability concepts 
 
 ---
 
+📸 Project GIF 
+
+<img width="800" height="420" alt="GIf" src="https://github.com/user-attachments/assets/eff678fc-bb5b-4db0-8a85-0a99b03f5a4c" />
+
+---
+
+
 # 📗 Probability Topics Covered
 
 ## 🔢 Q1 — Basic Probability Events
