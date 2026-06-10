@@ -1,7 +1,5 @@
 # 📊 Expectation Decider: Probability Analysis of Student Performance
 
-### Skill Education — Shaping Skills for Scaling Higher...!!!
-
 A complete **Theory + Practical Probability Project** analyzing a real-world student dataset of **450 records**. The project covers fundamental probability concepts including events, empirical vs theoretical probability, random variables, binomial distribution, Venn diagrams, contingency tables, conditional probability, independence, mutual exclusivity, and Bayes' Theorem.
 
 The entire analysis is implemented using **Python (Jupyter Notebook)** and documented through a comprehensive **Insights Report** containing calculations, probability interpretations, and business-style conclusions.
