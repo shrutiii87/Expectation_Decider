@@ -64,6 +64,14 @@ Your task is to analyze student performance data and apply probability concepts 
 
 ---
 
+## 🎬 Project Demo
+
+[![Watch the Project Walkthrough](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](LINK HERE)
+
+Click on the Badge to see the video....
+
+---
+
 # 📸 Project GIF 
 
 <img width="800" height="420" alt="GIf" src="https://github.com/user-attachments/assets/eff678fc-bb5b-4db0-8a85-0a99b03f5a4c" />
