@@ -74,7 +74,7 @@ Your task is to analyze student performance data and apply probability concepts 
 
 # 📸 Insights GIF 
 
-
+<img width="800" height="420" alt="GIF_insights" src="https://github.com/user-attachments/assets/5c67bcd8-e1f4-4059-a684-ccf6e3be1c8c" />
 
 ---
 
