@@ -72,6 +72,12 @@ Your task is to analyze student performance data and apply probability concepts 
 
 ---
 
+# 📸 Insights GIF 
+
+
+
+---
+
 
 # 📗 Probability Topics Covered
 
