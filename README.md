@@ -20,9 +20,9 @@ The entire analysis is implemented using **Python (Jupyter Notebook)** and docum
 
 # 🎯 Objective
 
-You are a data analyst working for an educational research organization.
+working for an educational research organization.
 
-Your task is to analyze student performance data and apply probability concepts to understand factors affecting exam success. Through this project, you will calculate event probabilities, analyze relationships between study habits and outcomes, explore conditional probability, and use Bayes' Theorem to identify the strongest predictors of passing exams.
+task is to analyze student performance data and apply probability concepts to understand factors affecting exam success. Through this project, you will calculate event probabilities, analyze relationships between study habits and outcomes, explore conditional probability, and use Bayes' Theorem to identify the strongest predictors of passing exams.
 
 ---
 
