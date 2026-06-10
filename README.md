@@ -55,7 +55,7 @@ Your task is to analyze student performance data and apply probability concepts 
 
 ---
 
-🛠️ Tools used 
+# 🛠️ Tools used 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
